@@ -2,6 +2,8 @@
 
 Este exemplo ensina como colocar atalhos no seu App Xamarin.Forms
 
+<img src="https://github.com/TBertuzzi/AtalhosExemplo/blob/master/Resources/fotoIos.png?raw=true" alt="Smiley face" height="500" width="400">
+
 Vamos ao Nuget Instalar o Plugin [Plugin.AppShortcuts](https://www.nuget.org/packages/Plugin.AppShortcuts/) em todos os projetos.
 
 Em seguida no AppDelegate.cs do iOS Vamos Adicionar o Seguinte código :
