@@ -139,7 +139,7 @@ protected override void OnAppLinkRequestReceived(Uri uri)
 
 Pronto basta rodar :
 
-Caso fique a duvida este repositorio tem um exemplo da implementação completa. E tambem A Xamgirl escreveu um artigo bem 
+Caso fique a duvida este repositorio tem um exemplo da implementação completa. E tambem A Xamgirl ([Charlin Agramonte](https://github.com/Char0394)) escreveu um artigo bem 
 legal sobre isso, e você pode conferir [Clicando Aqui](https://xamgirl.com/adding-shortcuts-in-xamarin-forms/)
 
 Quer ver outros artigos sobre Xamarin ? [Clique aqui](https://github.com/TBertuzzi/XXamarin)
